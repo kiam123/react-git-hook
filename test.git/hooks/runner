@@ -1,0 +1,4 @@
+#!bin/bash
+
+cd /home/kiam/sideex/sideex/
+node sideex-runner.js -c config.json

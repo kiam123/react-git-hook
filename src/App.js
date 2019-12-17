@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React WTF  34245 789
+          Learn React WTF  34245 789  123123
         </a>
       </header>
     </div>
